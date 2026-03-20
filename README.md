@@ -12,7 +12,7 @@ I started building software to solve problems I faced daily—it became my passi
 
 - Active in open-source and extension marketplace
 - Trying out different AI tools and loving it! 🤖
-- Check out my repos and [VS Code Publisher Profile](https://marketplace.visualstudio.com/publishers/Gururagavendra)
+- Check out my [repos](https://github.com/Gururagavendra?tab=repositories) and [VS Code Publisher Profile](https://marketplace.visualstudio.com/publishers/Gururagavendra)
 
 ## 📫 Let's Connect
 
