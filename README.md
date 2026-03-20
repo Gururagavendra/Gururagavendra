@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Gururagavendra
 
-**Software Engineer** (https://rapyta-robotics.com) | Building tools that solve real problems
+**Software Engineer** | Fullstack AI | Building tools that solve real problems
 
 I started building software to solve problems I faced daily—it became my passion. Now I love collaborating with like-minded people and shipping tools that matter.
 
