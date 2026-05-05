@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Guru
 
-**Backend Software Engineer** | Python · FastAPI · DJango . AI/LLM Tooling | Building things people actually use
+**Fullstack Software Engineer** | Python · React · Djano · FastAPI · AI/LLM Tooling | Building things people actually use
 
-I build backend systems and developer tools — sometimes they take off. 
-Currently at Rapyuta Robotics working on warehouse automation. 
-Open to founding engineer / senior backend roles at AI or fintech startups.
+I build backend systems and developer tools — sometimes they take off.
+Currently at Rapyuta Robotics working on warehouse automation.
+Open to founding engineer / backend engineer roles at AI or fintech startups.
 
 ---
 
@@ -22,4 +22,4 @@ Open to founding engineer / senior backend roles at AI or fintech startups.
 
 ---
 
-> 💼 **Open to work** — senior backend / founding engineer roles · AI · fintech · developer tooling
+> 💼 **Open to work** — founding engineer / backend engineer roles · AI · fintech · developer tooling
