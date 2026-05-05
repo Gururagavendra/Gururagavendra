@@ -1,25 +1,25 @@
-# Hey there! 👋 I'm Gururagavendra
+# Hey there! 👋 I'm Guru
 
-**Software Engineer** | Fullstack AI | Building tools that solve real problems
+**Backend Software Engineer** | Python · FastAPI · AI/LLM Tooling | Building things people actually use
 
-I started building software to solve problems I faced daily—it became my passion. Now I love collaborating with like-minded people and shipping tools that matter.
-
----
-
-
-
-## 📊 Recent Activity
-
-- Active in open-source and extension marketplace
-- Trying out different AI tools and loving it! 🤖
-- Check out my [repos](https://github.com/Gururagavendra?tab=repositories) and [VS Code Publisher Profile](https://marketplace.visualstudio.com/publishers/Gururagavendra)
-
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-gururavgu85%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gururavgu85@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gururagavendra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururagavendra)
-[![GitHub](https://img.shields.io/badge/GitHub-Gururagavendra-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gururagavendra)
+I build backend systems and developer tools — sometimes they take off. 
+Currently at Rapyuta Robotics working on warehouse automation. 
+Open to founding engineer / senior backend roles at AI or fintech startups.
 
 ---
 
-**Fun fact:** I love automating things and hate repetitive work. That's probably why I keep building tools! 🤖
+## 🔧 Things I've Built
+
+- **[Gmail Cleaner](https://github.com/Gururagavendra/gmail-cleaner)** — CLI tool to bulk-clean Gmail. 1,800+ ⭐, zero marketing
+- **Figma MCP Server** — contributed a feature to Figma's official MCP server
+- **VSCode PR Extension** — AI-powered pull request tooling
+
+## 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-gururavgu85@gmail.com-red)](mailto:gururavgu85@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gururagavendra-blue)](https://linkedin.com/in/Gururagavendra)
+[![GitHub](https://img.shields.io/badge/GitHub-Gururagavendra-black)](https://github.com/Gururagavendra)
+
+---
+
+> 💼 **Open to work** — senior backend / founding engineer roles · AI · fintech · developer tooling
