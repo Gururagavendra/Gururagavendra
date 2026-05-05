@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Guru
 
-**Backend Software Engineer** | Python · FastAPI · AI/LLM Tooling | Building things people actually use
+**Backend Software Engineer** | Python · FastAPI · DJango . AI/LLM Tooling | Building things people actually use
 
 I build backend systems and developer tools — sometimes they take off. 
 Currently at Rapyuta Robotics working on warehouse automation. 
