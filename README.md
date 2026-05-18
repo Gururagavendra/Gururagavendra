@@ -8,15 +8,18 @@ Open to founding engineer / backend engineer roles at AI or fintech startups.
 
 ---
 
-## 🔧 Things I've Built
+## Notable Things I've Built
 
 - **[Gmail Cleaner](https://github.com/Gururagavendra/gmail-cleaner)** — CLI tool to bulk-clean Gmail. 1,800+ ⭐, zero marketing
 - **[Figma MCP Server](https://github.com/southleft/figma-console-mcp)** — contributed a feature to Figma's official MCP server
 - **[VSCode PR Extension](https://marketplace.visualstudio.com/items?itemName=Gururagavendra.local-pr-review)** — AI-powered pull request tooling
 
-## 📬 Let's Connect
+there are other interesting tools to cli, vscode extensions, etc.., feel free to check around in the repos
 
-[![Email](https://img.shields.io/badge/Email-gururavgu85@gmail.com-red)](mailto:gururavgu85@gmail.com)
+## Let's Connect
+always love to talk with people, so if u wanna reachout, please do , i am active on email and linkedin
+
+[![Email](https://img.shields.io/badge/Email-gururvelu85@gmail.com-red)](mailto:guruvelu85@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gururagavendra-blue)](https://linkedin.com/in/Gururagavendra)
 [![GitHub](https://img.shields.io/badge/GitHub-Gururagavendra-black)](https://github.com/Gururagavendra)
 
