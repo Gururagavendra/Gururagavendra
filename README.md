@@ -2,8 +2,8 @@
 
 **Fullstack Software Engineer** | Python · React · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
 
-I build backend systems and developer tools — sometimes they take off.
-Currently at Rapyuta Robotics working on warehouse automation.
+I build scalable systems and developer tools.
+Currently at Rapyuta Robotics working on one of the biggest/complex warehouse backend system of japan.
 Open to founding engineer / backend engineer roles at AI or fintech startups.
 
 ---
