@@ -2,12 +2,11 @@
 
 **Fullstack Software Engineer** | Python · React · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
 
-hey hi guru here, I build scalable systems and developer tools.
+I build scalable backend and Fullstack systems.
 Currently at Rapyuta Robotics working on one of the biggest/complex warehouse backend system of japan.
-Open to founding engineer / backend engineer roles at AI or fintech startups.
+Open to founding engineer / backend engineer / Fullstack roles.
 
-hobbies: tennis, marathon, volleyball
-next aiming for an big maraton
+outside my work i spend time on tennis, marathon, volleyball <br> next aiming for an big maraton
 
 ---
 
@@ -29,4 +28,4 @@ always love to talk with people, so if u wanna reachout, please do , i am active
 
 ---
 
-> 💼 **Open to work** — founding engineer / backend engineer roles · AI · fintech · developer tooling
+> 💼 **Open to work** — founding engineer / backend engineer roles / Fullstack engineer roles
