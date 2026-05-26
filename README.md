@@ -2,19 +2,23 @@
 
 **Fullstack Software Engineer** | Python · React · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
 
-I build scalable systems and developer tools.
+hey hi guru here, I build scalable systems and developer tools.
 Currently at Rapyuta Robotics working on one of the biggest/complex warehouse backend system of japan.
 Open to founding engineer / backend engineer roles at AI or fintech startups.
+
+hobbies: tennis, marathon, volleyball
+next aiming for an big maraton
 
 ---
 
 ## Notable Things I've Built
 
-- **[Gmail Cleaner](https://github.com/Gururagavendra/gmail-cleaner)** — CLI tool to bulk-clean Gmail. 1,800+ ⭐, zero marketing
-- **[Figma MCP Server](https://github.com/southleft/figma-console-mcp)** — contributed a feature to Figma's official MCP server
-- **[VSCode PR Extension](https://marketplace.visualstudio.com/items?itemName=Gururagavendra.local-pr-review)** — AI-powered pull request tooling
+- **[Gmail Cleaner](https://github.com/Gururagavendra/gmail-cleaner)** - CLI tool to bulk-clean Gmail. 1,800+ ⭐, zero marketing
+- **[Figma MCP Server](https://github.com/southleft/figma-console-mcp)** - contributed a feature to Figma's official MCP server
+- **[VSCode PR Extension](https://marketplace.visualstudio.com/items?itemName=Gururagavendra.local-pr-review)** - AI-powered pull request tooling
+- **[tuxmate-cli](https://github.com/Gururagavendra/tuxmate-cli)** - cli for tuxmate
 
-there are other interesting tools to cli, vscode extensions, etc.., feel free to check around in the repos
+there are other interesting cli-tool, vscode extensions, etc.., feel free to check around in the repos :)
 
 ## Let's Connect
 always love to talk with people, so if u wanna reachout, please do , i am active on email and linkedin
