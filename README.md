@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Guru
+# Hey there! I'm Guru
 
-**Backend Software Engineer** | Python · React · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
+** Software Engineer** | Python · React · C++ · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
 
 I build scalable backend and Fullstack systems.
 Currently at Rapyuta Robotics.
