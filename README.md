@@ -6,7 +6,7 @@ I build scalable backend and Fullstack systems.
 Currently at Rapyuta Robotics.
 Open to founding engineer / backend engineer / Fullstack roles.
 
-outside my work i spend time on tennis, marathon, volleyball <br> next aiming for an big maraton
+outside my work i spend time on tennis, marathon, volleyball <br> next aiming for an triathlon
 
 ---
 
