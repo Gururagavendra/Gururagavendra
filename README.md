@@ -1,5 +1,7 @@
 # Hey there! I'm Guru
 
+> 💼 **Open to work** — founding engineer / backend engineer roles / Fullstack engineer roles
+
 **Software Engineer** | Python · React · C++ · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
 
 I build scalable systems. Currently working at Rapyuta Robotics.
@@ -24,5 +26,3 @@ always love to talk with people, so if u wanna reachout, please do , i am active
 [![GitHub](https://img.shields.io/badge/GitHub-Gururagavendra-black)](https://github.com/Gururagavendra)
 
 ---
-
-> 💼 **Open to work** — founding engineer / backend engineer roles / Fullstack engineer roles
