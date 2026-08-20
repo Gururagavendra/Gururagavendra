@@ -4,7 +4,7 @@
 
 **Software Engineer** | Python · React · C++ · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
 
-I build scalable systems. Currently working at Rapyuta Robotics.
+I build scalable systems. Currently working at Fulfil. prev rapyuta robotics
 outside my work i spend time on tennis, marathon, volleyball <br> next aiming for an triathlon
 
 ---
