@@ -12,7 +12,7 @@ outside my work i spend time on tennis, marathon, volleyball <br> next aiming fo
 ## Notable Things I've Built
 
 - **[Gmail Cleaner](https://github.com/Gururagavendra/gmail-cleaner)** - CLI tool to bulk-clean Gmail. [ 2,100+ ⭐ ]
-- **[Figma MCP Server](https://github.com/southleft/figma-console-mcp)** - contributed a feature to southleft Figma MCP server. [ 2,000+ ⭐ ]
+- **[Figma MCP Server](https://github.com/southleft/figma-console-mcp)** - contributed a feature to southleft Figma MCP server. [ 2,200+ ⭐ ]
 - **[VSCode PR Extension](https://marketplace.visualstudio.com/items?itemName=Gururagavendra.local-pr-review)** - AI-powered pull request tooling
 - **[tuxmate-cli](https://github.com/Gururagavendra/tuxmate-cli)** - cli for tuxmate
 
