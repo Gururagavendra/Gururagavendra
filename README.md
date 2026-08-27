@@ -1,7 +1,5 @@
 # Hey there! I'm Guru
 
-> 💼 **Open to work** — founding engineer / backend engineer roles / Fullstack engineer roles
-
 **Software Engineer** | Python · React · C++ · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
 
 I build scalable systems. Currently working at Fulfil. prev rapyuta robotics
