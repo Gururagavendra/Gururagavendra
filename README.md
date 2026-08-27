@@ -1,9 +1,13 @@
-# Hey there! I'm Guru
+# Hey, I'm Guru 
 
-**Software Engineer** | Python · React · C++ · Djano · FastAPI · Postgres· AI/LLM Tooling | Building things people actually use
+**Software Engineer** building backend systems, developer tools, and AI/LLM-powered workflows.
 
-I build scalable systems. Currently working at Fulfil. prev rapyuta robotics
-outside my work i spend time on tennis, marathon, volleyball <br> next aiming for an triathlon
+I work mostly with **C++ · JavaScript · Python · React · Django · FastAPI · PostgreSQL**, and whatever else the problem calls for.
+
+Currently at **Fulfil**. Previously at **Rapyuta Robotics**.
+
+Outside of code, you'll usually find me playing **tennis, volleyball, or training for a marathon**.  
+Next up: **triathlon** 🏊‍♂️🚴‍♂️🏃‍♂️
 
 ---
 
@@ -17,10 +21,10 @@ outside my work i spend time on tennis, marathon, volleyball <br> next aiming fo
 there are other interesting cli-tool, vscode extensions, etc.., feel free to check around in the repos :)
 
 ## Let's Connect
-always love to talk with people, so if u wanna reachout, please do , i am active on email and linkedin
+always love to talk with people, so if u wanna reachout, please do , i am active on email and twitter
 
-[![Email](https://img.shields.io/badge/Email-gururvelu85@gmail.com-red)](mailto:guruvelu85@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gururagavendra-blue)](https://linkedin.com/in/Gururagavendra)
+[![Email](https://img.shields.io/badge/Email-guruvelu85%40gmail.com-red)](mailto:guruvelu85@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@Gururagav85-1DA1F2)](https://x.com/Gururagav85)
 [![GitHub](https://img.shields.io/badge/GitHub-Gururagavendra-black)](https://github.com/Gururagavendra)
 
 ---
