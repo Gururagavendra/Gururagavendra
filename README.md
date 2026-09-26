@@ -1,4 +1,4 @@
-# Hey, I'm Guru 
+# Hello !
 
 **Software Engineer** building backend/fullstack systems, developer tools, and AI/LLM-powered workflows.
 
